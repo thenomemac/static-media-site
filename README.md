@@ -8,7 +8,7 @@ Example:
 
 ``` bash
 go run main.go
-docker run -p 80:80 -v `pwd`:/usr/share/nginx/html
+docker run -p 80:80 -v `pwd`:/usr/share/nginx/html nginx
 # enjoy your home media server
 ```
 
