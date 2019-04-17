@@ -13,8 +13,8 @@ docker run -p 80:80 -v `pwd`:/usr/share/nginx/html
 ```
 
 Preview:
-![preview][imgs/preview1.png]
-![preview][imgs/preview2.png]
+![preview](imgs/preview1.png)
+![preview](imgs/preview2.png)
 
 External Dependencies:
 - bash
